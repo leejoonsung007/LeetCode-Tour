@@ -8,7 +8,7 @@ package com.practice;
 // Your function should return length = 2, with the first two elements of nums being 1 and 2 respectively.
 // It doesn't matter what you leave beyond the returned length.
 
-public class removeDuplicates {
+public class RemoveDuplicates {
     public static int removeDuplicates(int[] nums) {
         int i = 0;
         for (int j = 0; j < nums.length; j++) {
@@ -22,6 +22,6 @@ public class removeDuplicates {
 
     public static void main(String[] args) {
         int[] nums = new int[] {1, 1, 2};
-        removeDuplicates.removeDuplicates(nums);
+        RemoveDuplicates.removeDuplicates(nums);
     }
 }
