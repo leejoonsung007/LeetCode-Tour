@@ -1,6 +1,6 @@
 package com.practice;
 
-// 125. Valid Palindrome
+// 125. Valid PalindromeNumber
 // Given a string, determine if it is a palindrome,
 // considering only alphanumeric characters and ignoring cases.
 
