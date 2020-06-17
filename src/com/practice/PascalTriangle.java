@@ -30,6 +30,6 @@ public class PascalTriangle {
     }
 
     public static void main(String[] args) {
-        PascalTriangle.generate(5);
+        PascalTriangle.generate(4);
     }
 }
