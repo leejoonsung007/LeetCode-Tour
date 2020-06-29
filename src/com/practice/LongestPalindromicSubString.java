@@ -30,5 +30,7 @@ public class LongestPalindromicSubString {
 
     public static void main(String[] args) {
         System.out.println(new LongestPalindromicSubString().longestPalindrome("aabbaa"));
+        String test = "abc";
+        System.out.println(test.substring(0, 3));
     }
 }
